@@ -12,6 +12,6 @@ Movie sample
 --------------------
 
 - See [here](AVIs/sample.avi) for an sample movie generated from a contrast-enhanced 3D breast CT dataset
-- See the Appendix of [my UC Davis disseration work](Disseration_Huang.pdf) for detailed description of movie frame generation
+- See the Appendix A of [my UC Davis disseration work](Disseration_Huang.pdf) for detailed description of movie frame generation
 - The .avi was generated via ImageJ by loading up all the frames and save-as .avi (jpeg)
 
